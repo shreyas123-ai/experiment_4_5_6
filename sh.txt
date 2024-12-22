@@ -8,4 +8,6 @@ printf("i typed 6 numbers");
 printf(" so i finally typed");
 printf("i am very sad");
 printf("i am tensed about mt exams");
+
+scanf("i am scanning something");
 }
