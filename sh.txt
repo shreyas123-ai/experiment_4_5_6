@@ -4,3 +4,5 @@
 4
 5
 6
+printf("i typed 6 numbers");
+printf(" so i finally typed");
